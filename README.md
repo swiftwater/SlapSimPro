@@ -1,2 +1,0 @@
-# SlapSimPro
-SlapSimPro
